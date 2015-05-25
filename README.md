@@ -1,6 +1,7 @@
 # KosselPlus-PA
 
-![Logo PA](http://tienda.proyectosarduino.com/img/tienda-proyectos-arduino-1418304935.jpg)![Kossel](http://i59.tinypic.com/5tzyaa.jpg)
+![Logo PA](http://tienda.proyectosarduino.com/img/tienda-proyectos-arduino-1418304935.jpg)
+![Kossel](http://i58.tinypic.com/2vkf4mh.png)
 
 Repo Kossel Plus mod proyectosarduino.com
 
